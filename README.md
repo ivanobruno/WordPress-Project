@@ -23,8 +23,8 @@ This is my first project with JavaScript language.
 
 ## Technologies
 Project created with:
-* HTML5
-*  JavaScript ES6
+* PHP
+* JavaScript ES6
 * CSS3
 
 ## Installation
