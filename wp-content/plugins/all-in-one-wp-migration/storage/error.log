@@ -1,0 +1,33 @@
+Dec 21 2022 14:12:51
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 17:40:08
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 17:42:58
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 17:52:15
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 17:59:30
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 18:15:10
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 18:45:20
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 18:47:02
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 18:54:51
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 21 2022 18:55:59
+{"Number":2,"Message":"fopen(C:\\\\ProgrammiPerProgrammare\\\\Xampp\\\\htdocs\\\\Progetti\\\\Progetto Wordpress di Ivano Bruno\\\\wp-content\\\\desktop.ini): Failed to open stream: Permission denied","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":486}
+
+Dec 21 2022 19:16:22
+{"Number":2,"Message":"fopen(C:\\\\ProgrammiPerProgrammare\\\\Xampp\\\\htdocs\\\\Progetti\\\\Progetto Wordpress di Ivano Bruno\\\\wp-content\\\\desktop.ini): Failed to open stream: Permission denied","File":"C:\\ProgrammiPerProgrammare\\Xampp\\htdocs\\Progetti\\Progetto Wordpress di Ivano Bruno\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":486}
+
