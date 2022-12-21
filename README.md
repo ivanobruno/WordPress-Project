@@ -1,9 +1,6 @@
 # WordPress-Project
-![screencapture-127-0-0-1-3001-Start2Impact-JavaScriptBasics-index-html-2022-09-30-15_18_13](https://user-images.githubusercontent.com/107309358/193289372-57986f48-6b3d-4ba8-9044-e59276458224.png)
+![screencapture-localhost-progetti-Progetto-Wordpress-di-Ivano-Bruno-2022-12-21-15_50_10](https://user-images.githubusercontent.com/107309358/209012647-5d495a26-f1a4-42c6-949b-d8472337f6b9.png)
 
-<h2 align="center">
-  <a href="https://javascript-counter-project-ivanobruno.netlify.app/" target="_blank">Website</a>
-</h2>
 
 ## Table of Contents
 1. [General Info](#general-info)
