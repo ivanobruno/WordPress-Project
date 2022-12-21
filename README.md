@@ -13,10 +13,10 @@
 8. [Contact Information](#contact_information)
 
 ## General Info
-This is the counter of Ivano Bruno.
+This is a site for a swimwear company.
 
 ## Description
-This is my first project with JavaScript language.
+This is my first project with WordPress.
 
 ## Technologies
 Project created with:
@@ -28,7 +28,7 @@ Project created with:
 To run this project:
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
-* Open index.html in your browser.
+* Put the folder in your hosting program.
 
 ## Collaboration
 * No collaboration
